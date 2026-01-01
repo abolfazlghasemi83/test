@@ -52,7 +52,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -78,6 +77,16 @@ This project was built using Python and the native Tkinter library, ensuring it 
 * [![Tkinter][Tkinter-shield]][Tkinter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Data Source
+
+All data is sourced directly from the official NCI and TCGA portals.
+
+*   [![TCGA][TCGA-shield]][TCGA-url]
+*   [![GDC][GDC-shield]][GDC-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -141,7 +150,6 @@ For more detailed examples and tutorials, please refer to the **[Project Website
 - [x] Windows Standalone Executable
 - [ ] Support for macOS and Linux executables
 - [ ] Integration with GDC API for direct data cart management
-- [ ] Multi-language Support
 
 See the [open issues](https://github.com/Siamak-salimy/HMNexus/issues) for a full list of proposed features (and known issues).
 
@@ -180,21 +188,13 @@ Project Link: [https://github.com/Siamak-salimy/HMNexus](https://github.com/Siam
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-We would like to thank the following resources for their invaluable help.
-* [NCI Genomic Data Commons (GDC)](https://gdc.cancer.gov/)
-* [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/tcga)
-* [Img Shields](https://shields.io)
-* [Font Awesome](https://fontawesome.com)
-* [Best README Template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: https://github.com/Siamak-salimy/HMNexus/raw/main/media/screenshot.png
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://python.org
 [Tkinter-shield]: https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Tkinter-url]: https://docs.python.org/3/library/tkinter.html
+[TCGA-shield]: https://img.shields.io/badge/The_Cancer_Genome_Atlas_(TCGA)-0A539C?style=flat&logo=unrealengine&logoColor=white
+[TCGA-url]: https://www.cancer.gov/tcga
+[GDC-shield]: https://img.shields.io/badge/Genomic_Data_Commons_(GDC)-433F81?style=flat&logo=unrealengine&logoColor=white
+[GDC-url]: https://gdc.cancer.gov/
