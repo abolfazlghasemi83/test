@@ -173,12 +173,27 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
+## 👨‍💻 Development Team
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+- Siamak Salimy (Team Lead)
+- Amirmohammad Asgari
+- Mohammadreza Shahbazi
+- Abolfazl Ghasemi
+- Mahan Mirzade
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
+## 📜 Citation
+
+If you use HMNexus in your academic research, please cite our paper:
+
+> Salimy S., Asgari A., Shahbazi M., Ghasemi A., & Mirzade M. (2025). HMNexus: A Tkinter GUI Platform for High-Speed, Code-Free TCGA Data Download. *BMC Bioinformatics*.
+
+---
+
+## 📄 License
+
+© 2025 HMNexus Project
 <!-- CONTACT -->
 ## Contact
 
@@ -196,3 +211,6 @@ Project Link: [https://github.com/Siamak-salimy/HMNexus](https://github.com/Siam
 [Tkinter-url]: https://docs.python.org/3/library/tkinter.html
 [TCGA-shield]: https://img.shields.io/badge/The_Cancer_Genome_Atlas_(TCGA)-0A539C?style=flat&logo=unrealengine&logoColor=white
 [TCGA-url]: https://www.cancer.gov/tcga
+
+
+
