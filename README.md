@@ -11,7 +11,7 @@
   <br/><br/>
 
   <a href="https://github.com/Siamak-salimy/HMNexus">
-    <img src="https://github.com/Siamak-salimy/HMNexus/raw/main/media/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Siamak-salimy/HMNexus/raw/main/media/logo.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">HMNexus</h3>
