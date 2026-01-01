@@ -4,6 +4,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <!-- GitHub Repo Link Badge -->
+  <a href="https://github.com/Siamak-salimy/HMNexus">
+    <img src="https://img.shields.io/badge/GitHub_Repo-Siamak--salimy/HMNexus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+  <br/><br/>
+
   <a href="https://github.com/Siamak-salimy/HMNexus">
     <img src="https://github.com/Siamak-salimy/HMNexus/raw/main/media/logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -132,10 +138,10 @@ For more detailed examples and tutorials, please refer to the **[Project Website
 - [x] Core GUI for data filtering and download
 - [x] Concurrent, high-speed download engine
 - [x] MD5 checksum validation
+- [x] Windows Standalone Executable
 - [ ] Support for macOS and Linux executables
 - [ ] Integration with GDC API for direct data cart management
 - [ ] Multi-language Support
-    - [ ] Persian (Farsi)
 
 See the [open issues](https://github.com/Siamak-salimy/HMNexus/issues) for a full list of proposed features (and known issues).
 
@@ -182,6 +188,7 @@ We would like to thank the following resources for their invaluable help.
 * [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/tcga)
 * [Img Shields](https://shields.io)
 * [Font Awesome](https://fontawesome.com)
+* [Best README Template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
