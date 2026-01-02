@@ -1,17 +1,17 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
+
 <div align="center">
-  <!-- GitHub Repo Link Badge -->
+
   <a href="https://github.com/Siamak-salimy/HMNexus">
     <img src="https://img.shields.io/badge/GitHub_Repo-Siamak--salimy/HMNexus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
+
   <br/><br/>
 
   <a href="https://github.com/Siamak-salimy/HMNexus">
-    <img src="Images/logo.ico" alt="Logo" width="80" height="80">
+    <img src="src/images/icon.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">HMNexus</h3>
@@ -22,7 +22,7 @@
     <a href="https://siamak-salimy.github.io/HMNexus/"><strong>Explore the Website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Siamak-salimy/HMNexus/releases">View Repositoty</a>
+    <a href="https://github.com/Siamak-salimy/HMNexus/releases">View Repository</a>
     ·
     <a href="https://github.com/Siamak-salimy/HMNexus/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
     ·
@@ -30,7 +30,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -51,19 +50,23 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#development-team">Development Team</a></li>
+    <li><a href="#citation">Citation</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![HMNexus Screenshot][product-screenshot]](https://siamak-salimy.github.io/HMNexus/)
+<a href="https://siamak-salimy.github.io/HMNexus/">
+  <img src="src/images/project%20snapshot.png" alt="HMNexus Screenshot" width="600"/>
+</a>
 
 **HMNexus** is a cross-platform desktop application designed to eliminate the technical barriers in accessing The Cancer Genome Atlas (TCGA) data. Traditional methods require command-line expertise and scripting, making them inaccessible for many biologists, clinicians, and medical researchers. HMNexus solves this problem by providing a fully graphical, intuitive, and powerful tool that requires zero coding.
 
 Here's why HMNexus is a game-changer:
+
 * **Accessibility:** Empowers researchers without a programming background to independently download and manage massive genomic datasets.
 * **Efficiency:** Accelerates the data acquisition phase of research with high-speed, parallel downloads, saving valuable time.
 * **Simplicity:** Transforms a complex workflow into a simple, three-step process: select, import, and download.
@@ -87,8 +90,6 @@ All data is sourced from the official NCI portals. You can download your data ma
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 Follow these instructions to get a copy of HMNexus up and running on your local machine.
@@ -129,10 +130,10 @@ You can either download the standalone executable (recommended for most users) o
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 HMNexus is designed to be as intuitive as possible. The main workflow consists of:
+
 1.  **Filtering Data**: Use the dropdown menus to select the cancer type and data category you are interested in.
 2.  **Importing a Manifest**: Click "Import Manifest" to load a manifest file downloaded from the GDC Data Portal.
 3.  **Downloading**: Click "Start Download" to begin the high-speed download process. Your files will be automatically organized into structured directories.
@@ -141,7 +142,6 @@ For more detailed examples and tutorials, please refer to the **[Project Website
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
 ## Roadmap
 
 - [x] Core GUI for data filtering and download
@@ -155,7 +155,6 @@ See the [open issues](https://github.com/Siamak-salimy/HMNexus/issues) for a ful
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -172,7 +171,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 ## 👨‍💻 Development Team
 
 - Siamak Salimy (Team Lead)
@@ -180,6 +178,8 @@ Don't forget to give the project a star! Thanks again!
 - Mohammadreza Shahbazi
 - Abolfazl Ghasemi
 - Mahan Mirzade
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -194,7 +194,7 @@ If you use HMNexus in your academic research, please cite our paper:
 ## 📄 License
 
 © 2025 HMNexus Project
-<!-- CONTACT -->
+
 ## Contact
 
 Siamak Salimy - [siamak.salimy@gmail.com](mailto:siamak.salimy@gmail.com)
@@ -203,14 +203,10 @@ Project Link: [https://github.com/Siamak-salimy/HMNexus](https://github.com/Siam
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: Images/project%20snapshot.png
+[product-screenshot]: src/images/project%20snapshot.png
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://python.org
 [Tkinter-shield]: https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Tkinter-url]: https://docs.python.org/3/library/tkinter.html
 [TCGA-shield]: https://img.shields.io/badge/The_Cancer_Genome_Atlas_(TCGA)-0A539C?style=flat&logo=unrealengine&logoColor=white
 [TCGA-url]: https://www.cancer.gov/tcga
-
-
-
